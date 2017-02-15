@@ -1,16 +1,10 @@
 # Personal Portfoli 
 
 
-# Used Element
-----------------------------------------
+**Used element
 
 * HTML
 * CSS3
 * Bootstrap
 * Bootnav Menu
 * little bit Javascript
-
-
-
-
-*  

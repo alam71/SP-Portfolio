@@ -1,7 +1,7 @@
 # Personal Portfoli 
 
 
-**Used element
+** Used element
 
 * HTML
 * CSS3
